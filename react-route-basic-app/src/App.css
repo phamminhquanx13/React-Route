@@ -1,0 +1,13 @@
+.main-route-place {
+    border: 1px solid rgb(135, 135, 243);
+    margin: 3px;
+    padding: 5px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.secondary-route-place {
+    border: 1px solid #a2d9ce;
+    margin: 5px;
+    padding: 5px;
+}
